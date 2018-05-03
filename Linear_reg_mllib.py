@@ -1,4 +1,3 @@
-from pyspark.ml.classification import LogisticRegression
 from pyspark.ml.regression import LinearRegression
 import pyspark.sql
 from pyspark.sql import SparkSession
