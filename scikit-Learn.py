@@ -1,4 +1,10 @@
-##### scikit learn model to predict taxi fare from trip distance 
+#////////////////////////////////////////////////////////////////////////////////////////////////////
+#/// \scikit-Learn.py
+#/// \brief A python program built to build a model to predict taxi fare from trip distance.
+#///
+#//  Author: Divya Singhal
+#////////////////////////////////////////////////////////////////////////////////////////////////////
+
 #import the packages
 from sklearn import linear_model
 import datetime as dt
