@@ -1,3 +1,10 @@
+#////////////////////////////////////////////////////////////////////////////////////////////////////
+#/// \file To calculate degree & clustering Coefficient.py
+#/// \brief Linear regression model implementation using NYC Taxi database 
+#///        - implementaion using Spark Machine learning library: Spark Mlib
+#///
+#//  Author: Divya Singhal
+#////////////////////////////////////////////////////////////////////////////////////////////////////
 
 ### Importing the packages
 from pyspark.ml.regression import LinearRegression
