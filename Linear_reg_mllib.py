@@ -1,5 +1,5 @@
 #////////////////////////////////////////////////////////////////////////////////////////////////////
-#/// \file To calculate degree & clustering Coefficient.py
+#/// \file Linear_reg_mllib.py
 #/// \brief Linear regression model implementation using NYC Taxi database 
 #///        - implementaion using Spark Machine learning library: Spark Mlib
 #///
