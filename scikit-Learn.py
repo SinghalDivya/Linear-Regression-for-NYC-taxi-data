@@ -1,7 +1,8 @@
 #////////////////////////////////////////////////////////////////////////////////////////////////////
 #/// \scikit-Learn.py
-#/// \brief A python program built to build a model to predict taxi fare from trip distance using scikit-learn, machine learning library in python.
-#///
+#/// \brief A python program built to build a model to predict taxi fare from trip distance using scikit-learn,
+#/// 	machine learning library in python.
+#//
 #//  Author: Divya Singhal
 #////////////////////////////////////////////////////////////////////////////////////////////////////
 
